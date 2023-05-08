@@ -1,0 +1,27 @@
+,feature,description
+0,ab class ALL - fluoroquinolone,Prior antibiotic exposure (class)
+1,medication ALL - dicloxacillin,Prior antibiotic exposure (detailed names)
+2,medication ALL - levofloxacin,Prior antibiotic exposure (detailed names)
+3,ab class ALL - glycopeptides,Prior antibiotic exposure (class)
+4,medication ALL - cefaclor,Prior antibiotic exposure (detailed names)
+5,hosp ward - IP,Specimen collected in inpatient setting
+6,ab class ALL - folate_inhibitor,Prior antibiotic exposure (class)
+7,medication ALL - minocycline,Prior antibiotic exposure (detailed names)
+8,micro - prev resistance AMP ALL,"Prior antibiotic resistance, see documentation for acronyms"
+9,medication ALL - ofloxacin,Prior antibiotic exposure (detailed names)
+10,micro - prev resistance TET ALL,"Prior antibiotic resistance, see documentation for acronyms"
+11,micro - prev resistance NIT ALL,"Prior antibiotic resistance, see documentation for acronyms"
+12,hosp ward - ER,Specimen collected in Emergency Room
+13,micro - prev resistance CIP ALL,"Prior antibiotic resistance, see documentation for acronyms"
+14,medication ALL - amoxicillin_clarithromycin,Prior antibiotic exposure (detailed names)
+15,medication ALL - vancomycin,Prior antibiotic exposure (detailed names)
+16,medication ALL - trimethoprim/sulfamethoxazole,Prior antibiotic exposure (detailed names)
+17,medication ALL - ciprofloxacin,Prior antibiotic exposure (detailed names)
+18,demographics - age,Age (years)
+19,uncomplicated,Used to denote membership in uncomplicated UTI cohort
+20,medication ALL - penicillin,Prior antibiotic exposure (detailed names)
+21,medication ALL - cefazolin,Prior antibiotic exposure (detailed names)
+22,medication ALL - cefotetan,Prior antibiotic exposure (detailed names)
+23,micro - prev resistance SXT ALL,"Prior antibiotic resistance, see documentation for acronyms"
+24,ab class ALL - mixed,Prior antibiotic exposure (class)
+25,micro - prev resistance LVX ALL,"Prior antibiotic resistance, see documentation for acronyms"
